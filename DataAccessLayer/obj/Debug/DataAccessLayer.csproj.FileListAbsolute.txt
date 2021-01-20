@@ -1,0 +1,6 @@
+C:\Users\Kuba\Documents\dokumenty\programing\web\Winforms-systemHR\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Kuba\Documents\dokumenty\programing\web\Winforms-systemHR\SystemHR\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Kuba\Documents\dokumenty\programing\web\Winforms-systemHR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\dokumenty\programing\web\Winforms-systemHR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Documents\dokumenty\programing\web\Winforms-systemHR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Kuba\Documents\dokumenty\programing\web\Winforms-systemHR\SystemHR\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
